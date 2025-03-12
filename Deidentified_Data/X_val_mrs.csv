@@ -1,0 +1,358 @@
+Admission,gender,Age,mrs,race,ethnic_group,Discharge disposition,follow_up,Expired
+1,0,64,3,WHITE,0,Acute Inpatient Rehabilitation Facility (IRF),0,0
+2,0,86,4,WHITE,0,Acute Inpatient Rehabilitation Facility (IRF),0,0
+3,1,81,6 - Deceased,OTHER,0,Deceased,0,1
+4,1,84,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,BLACK/AFRICAN AMERICAN,0,Long-Term Care (LTC) Facility or Nursing Home,0,0
+5,1,76,3,OTHER,0,"Home, with services",0,0
+6,1,76,6 - Deceased,OTHER,0,"Home, with services",1,0
+7,1,71,Deceased,BLACK/AFRICAN AMERICAN,0,Deceased,0,1
+8,1,78,4,BLACK/AFRICAN AMERICAN,0,"Home, with services",0,0
+9,1,80,"5 - Severe disability; bedridden, incontinent, and requires constant nursing care and attention.",BLACK/AFRICAN AMERICAN,0,Acute Inpatient Rehabilitation Facility (IRF),0,0
+10,1,80,6 - Deceased,BLACK/AFRICAN AMERICAN,0,Acute Inpatient Rehabilitation Facility (IRF),1,0
+11,0,68,Deceased,BLACK/AFRICAN AMERICAN,0,Deceased,0,1
+12,0,77,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,WHITE,0,Long-Term Care (LTC) Facility or Nursing Home,0,0
+13,0,77,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,WHITE,0,Long-Term Care (LTC) Facility or Nursing Home,1,0
+14,1,68,6 - Deceased,WHITE,0,Deceased,0,1
+15,1,76,4,BLACK/AFRICAN AMERICAN,0,Long-Term Care (LTC) Facility or Nursing Home,0,0
+16,0,80,4,OTHER,0,Long-Term Care (LTC) Facility or Nursing Home,0,0
+17,0,80,"5 - Severe disability; bedridden, incontinent, and requires constant nursing care and attention.",OTHER,0,Long-Term Care (LTC) Facility or Nursing Home,1,0
+18,0,58,6 - Deceased,WHITE,0,Deceased,0,1
+19,1,81,"5 - Severe disability; bedridden, incontinent, and requires constant nursing care and attention.",BLACK/AFRICAN AMERICAN,0,Long-Term Care (LTC) Facility or Nursing Home,0,0
+20,1,81,"5 - Severe disability; bedridden, incontinent, and requires constant nursing care and attention.",BLACK/AFRICAN AMERICAN,0,Long-Term Care (LTC) Facility or Nursing Home,1,0
+21,1,76,"1 - No significant disability, despite symptoms; able to perform all usual duties and activities.",WHITE,0,"Home, self-care",0,0
+22,0,69,6 - Deceased,WHITE,0,Deceased,0,1
+23,1,65,3,BLACK/AFRICAN AMERICAN,0,"Home, with services",0,0
+24,0,68,"5 - Severe disability; bedridden, incontinent, and requires constant nursing care and attention.",WHITE,0,Long-term Acute Care Hospital (LTACH),0,0
+25,0,68,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,WHITE,0,Long-term Acute Care Hospital (LTACH),1,0
+26,1,74,3,WHITE,0,"Home, with services",0,0
+27,0,69,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,BLACK/AFRICAN AMERICAN,0,Long-Term Care (LTC) Facility or Nursing Home,0,0
+28,0,88,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,WHITE,0,Long-Term Care (LTC) Facility or Nursing Home,0,0
+29,0,72,0 - No Symptoms,OTHER,0,"Home, self-care",0,0
+30,1,88,6 - Deceased,BLACK/AFRICAN AMERICAN,0,Deceased,0,1
+31,1,65,6 - Deceased,WHITE,0,Deceased,0,1
+32,1,76,"5 - Severe disability; bedridden, incontinent, and requires constant nursing care and attention.",WHITE,0,Long-Term Care (LTC) Facility or Nursing Home,0,0
+33,0,73,6 - Deceased,WHITE,0,Deceased,0,1
+34,0,77,4,WHITE,0,Subacute Rehab (SAR)/Skilled Nursing Facility (SNF),0,0
+35,1,69,1,OTHER,0,Home,0,0
+36,1,81,4,WHITE,0,Long-Term Care (LTC) Facility or Nursing Home,0,0
+37,0,64,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,WHITE,0,Long-Term Care (LTC) Facility or Nursing Home,0,0
+38,1,51,0 - No Symptoms,WHITE,0,"Home, self-care",0,0
+39,1,65,4,BLACK/AFRICAN AMERICAN,0,"Home, with services",0,0
+40,0,58,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,WHITE,0,Long-Term Care (LTC) Facility or Nursing Home,0,0
+41,1,88,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,BLACK/AFRICAN AMERICAN,0,"Home, with services",0,0
+42,1,88,3,BLACK/AFRICAN AMERICAN,0,"Home, with services",1,0
+43,0,87,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,ASIAN,0,Long-term Acute Care Hospital (LTACH),0,0
+44,0,63,"1 - No significant disability, despite symptoms; able to perform all usual duties and activities.",WHITE,0,"Home, self-care",0,0
+45,1,60,"3 - Moderate disability; requires some help, but able to walk without assistance.",OTHER,0,"Short-term/-Stay Hosp. (SSH), Acute Care Hosp. (ACH)",0,0
+46,1,62,2 - Slight disability; unable to perform all previous activities but able to look after own affairs without assistance.,WHITE,0,"Home, self-care",0,0
+47,1,62,"1 - No significant disability, despite symptoms; able to perform all usual duties and activities.",WHITE,0,"Home, self-care",1,0
+48,1,44,6 - Deceased,BLACK/AFRICAN AMERICAN,0,Deceased,0,1
+49,1,64,4,BLACK/AFRICAN AMERICAN,0,Extended care facility - LTC Rehab,0,0
+50,1,55,6 - Deceased,WHITE,0,Deceased,0,1
+51,1,86,"5 - Severe disability; bedridden, incontinent, and requires constant nursing care and attention.",BLACK/AFRICAN AMERICAN,0,"Home, with services",0,0
+52,0,66,6 - Deceased,OTHER,0,Deceased,0,1
+53,0,64,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,BLACK/AFRICAN AMERICAN,0,"Home, with services",0,0
+54,0,64,"3 - Moderate disability; requires some help, but able to walk without assistance.",BLACK/AFRICAN AMERICAN,0,"Home, with services",1,0
+55,0,79,3,WHITE,0,"Home, with services",0,0
+56,1,85,"3 - Moderate disability; requires some help, but able to walk without assistance.",WHITE,0,Subacute Rehab (SAR)/Skilled Nursing Facility (SNF),1,0
+57,1,76,4,OTHER,0,Hospice Service,0,0
+58,0,66,3,WHITE,0,"Home, self-care",0,0
+59,1,77,5,OTHER,0,Hospice Service,0,0
+60,1,71,"3 - Moderate disability; requires some help, but able to walk without assistance.",WHITE,0,"Home, with services",0,0
+61,1,58,"1 - No significant disability, despite symptoms; able to perform all usual duties and activities.",WHITE,0,"Home, with services",0,0
+62,0,47,4,OTHER,1,Long-term Acute Care Hospital (LTACH),0,0
+63,0,76,4,OTHER,0,"Home, with services",0,0
+64,0,76,"3 - Moderate disability; requires some help, but able to walk without assistance.",OTHER,0,"Home, with services",1,0
+65,1,65,2 - Slight disability; unable to perform all previous activities but able to look after own affairs without assistance.,BLACK/AFRICAN AMERICAN,0,"Home, self-care",0,0
+66,0,76,Deceased,WHITE,0,Deceased,0,1
+67,1,51,1,WHITE,0,"Home, with services",0,0
+68,1,51,"1 - No significant disability, despite symptoms; able to perform all usual duties and activities.",WHITE,0,"Home, with services",1,0
+69,1,51,0 - No Symptoms,WHITE,0,"Home, with services",1,0
+70,0,50,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,BLACK/AFRICAN AMERICAN,0,Long-Term Care (LTC) Facility or Nursing Home,0,0
+71,0,49,"5 - Severe disability; bedridden, incontinent, and requires constant nursing care and attention.",BLACK/AFRICAN AMERICAN,0,Hospice Service,0,0
+72,0,49,6 - Deceased,BLACK/AFRICAN AMERICAN,0,Hospice Service,1,0
+73,0,36,3,WHITE,0,Home,0,0
+74,0,36,0 - No Symptoms,WHITE,0,Home,1,0
+75,1,76,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,WHITE,0,Long-term Acute Care Hospital (LTACH),0,0
+76,0,64,0 - No Symptoms,ASIAN,0,"Home, self-care",0,0
+77,0,64,0 - No Symptoms,ASIAN,0,"Home, self-care",1,0
+78,0,76,"5 - Severe disability; bedridden, incontinent, and requires constant nursing care and attention.",BLACK/AFRICAN AMERICAN,0,Long-term Acute Care Hospital (LTACH),0,0
+79,0,74,"5 - Severe disability; bedridden, incontinent, and requires constant nursing care and attention.",BLACK/AFRICAN AMERICAN,1,"Home, with services,Hospice Service",0,0
+80,0,60,6 - Deceased,WHITE,0,Deceased,0,1
+81,1,86,6 - Deceased,WHITE,0,Deceased,0,1
+82,0,78,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,ASIAN,0,Long-term Acute Care Hospital (LTACH),0,0
+83,0,67,6 - Deceased,BLACK/AFRICAN AMERICAN,0,Deceased,0,1
+84,0,60,4,BLACK/AFRICAN AMERICAN,0,Hospice Service,0,0
+85,0,76,2,BLACK/AFRICAN AMERICAN,0,"Home, self-care",0,0
+86,0,70,6 - Deceased,BLACK/AFRICAN AMERICAN,0,Deceased,0,1
+87,1,64,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,BLACK/AFRICAN AMERICAN,0,Long-term Acute Care Hospital (LTACH),0,0
+88,0,88,6 - Deceased,OTHER,0,Deceased,0,1
+89,0,68,6 - Deceased,OTHER,0,Deceased,0,1
+90,0,64,3,OTHER,0,Subacute Rehab (SAR)/Skilled Nursing Facility (SNF),0,0
+91,0,64,2 - Slight disability; unable to perform all previous activities but able to look after own affairs without assistance.,OTHER,0,Subacute Rehab (SAR)/Skilled Nursing Facility (SNF),1,0
+92,1,54,2 - Slight disability; unable to perform all previous activities but able to look after own affairs without assistance.,WHITE,0,"Home, self-care",0,0
+93,1,54,2 - Slight disability; unable to perform all previous activities but able to look after own affairs without assistance.,WHITE,0,"Home, self-care",1,0
+94,0,67,0,WHITE,0,Home,0,0
+95,1,64,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,BLACK/AFRICAN AMERICAN,0,"Home, with services",0,0
+96,1,64,"5 - Severe disability; bedridden, incontinent, and requires constant nursing care and attention.",BLACK/AFRICAN AMERICAN,0,"Home, with services",1,0
+97,1,68,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,OTHER,0,Long-term Acute Care Hospital (LTACH),0,0
+98,0,56,"5 - Severe disability; bedridden, incontinent, and requires constant nursing care and attention.",BLACK/AFRICAN AMERICAN,0,"Home, with services",0,0
+99,0,60,6 - Deceased,ASIAN,0,Deceased,0,1
+100,0,69,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,WHITE,0,"Home, with services",0,0
+101,0,55,"1 - No significant disability, despite symptoms; able to perform all usual duties and activities.",OTHER,0,"Home, self-care",0,0
+102,0,55,0 - No Symptoms,OTHER,0,"Home, self-care",1,0
+103,0,38,0 - No Symptoms,WHITE,0,"Home, self-care",0,0
+104,0,38,0 - No Symptoms,WHITE,0,"Home, self-care",1,0
+105,0,71,5,WHITE,0,Subacute Rehab (SAR)/Skilled Nursing Facility (SNF),0,0
+106,1,54,0 - No Symptoms,OTHER,0,"Home, self-care",0,0
+107,1,88,3,BLACK/AFRICAN AMERICAN,0,"Home, self-care",0,0
+108,1,67,4,WHITE,0,"Acute Inpatient Rehabilitation Facility (IRF),Long-Term Care (LTC) Facility or Nursing Home",0,0
+109,0,74,6 - Deceased,OTHER,0,Deceased,0,1
+110,1,28,0 - No Symptoms,WHITE,0,"Home, self-care",0,0
+111,0,88,6 - Deceased,WHITE,0,Deceased,0,1
+112,0,66,3,WHITE,0,"Home, with services",0,0
+113,1,76,Deceased,WHITE,0,Deceased,0,1
+114,0,78,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,WHITE,0,Long-term Acute Care Hospital (LTACH),0,0
+115,0,78,"3 - Moderate disability; requires some help, but able to walk without assistance.",WHITE,0,Long-term Acute Care Hospital (LTACH),1,0
+116,1,88,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,WHITE,0,Subacute Rehab (SAR)/Skilled Nursing Facility (SNF),0,0
+117,1,34,"3 - Moderate disability; requires some help, but able to walk without assistance.",OTHER,1,"Home, self-care",0,0
+118,1,34,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,OTHER,1,"Home, self-care",1,0
+119,1,83,4,WHITE,0,Hospice Service,0,0
+120,1,83,6 - Deceased,WHITE,0,Hospice Service,1,0
+121,0,57,"5 - Severe disability; bedridden, incontinent, and requires constant nursing care and attention.",WHITE,0,Hospice Service,0,0
+122,1,61,1,WHITE,0,"Home, self-care",0,0
+123,1,61,0 - No Symptoms,WHITE,0,"Home, self-care",1,0
+124,1,61,1,WHITE,0,"Home, self-care",1,0
+125,0,77,6 - Deceased,WHITE,0,Deceased,0,1
+126,1,51,4,WHITE,0,"Home, self-care",0,0
+127,1,18,"1 - No significant disability, despite symptoms; able to perform all usual duties and activities.",WHITE,0,"Home, self-care",0,0
+128,0,38,"3 - Moderate disability; requires some help, but able to walk without assistance.",WHITE,0,Long-Term Care (LTC) Facility or Nursing Home,0,0
+129,0,80,3,OTHER,0,"Home, with services",0,0
+130,1,78,6 - Deceased,WHITE,0,Deceased,0,1
+131,0,29,1,OTHER,0,"Home, self-care",0,0
+132,1,71,6 - Deceased,OTHER,0,Deceased,0,1
+133,1,69,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,WHITE,0,Long-Term Care (LTC) Facility or Nursing Home,0,0
+134,1,69,"5 - Severe disability; bedridden, incontinent, and requires constant nursing care and attention.",WHITE,0,Long-Term Care (LTC) Facility or Nursing Home,1,0
+135,1,43,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,WHITE,0,Long-term Acute Care Hospital (LTACH),0,0
+136,1,43,"5 - Severe disability; bedridden, incontinent, and requires constant nursing care and attention.",WHITE,0,Long-term Acute Care Hospital (LTACH),1,0
+137,1,28,1,WHITE,0,"Home, self-care",0,0
+138,0,30,0 - No Symptoms,WHITE,0,"Home, self-care",0,0
+139,0,79,4,WHITE,0,"Home, with services",0,0
+140,0,79,"1 - No significant disability, despite symptoms; able to perform all usual duties and activities.",WHITE,0,"Home, with services",1,0
+141,1,27,2,BLACK/AFRICAN AMERICAN,0,"Home, self-care",0,0
+142,0,50,0,WHITE,0,"Home, self-care",0,0
+143,0,50,0 - No Symptoms,WHITE,0,"Home, self-care",1,0
+144,0,50,0 - No Symptoms,WHITE,0,"Home, self-care",1,0
+145,0,72,4,WHITE,0,"Home, with services",0,0
+146,0,72,"1 - No significant disability, despite symptoms; able to perform all usual duties and activities.",WHITE,0,"Home, with services",1,0
+147,0,72,0 - No Symptoms,WHITE,0,"Home, with services",1,0
+148,1,33,"1 - No significant disability, despite symptoms; able to perform all usual duties and activities.",WHITE,0,"Home, self-care",0,0
+149,1,45,0 - No Symptoms,WHITE,0,"Home, with services",0,0
+150,0,64,"3 - Moderate disability; requires some help, but able to walk without assistance.",WHITE,0,"Home, with services",0,0
+151,0,64,"3 - Moderate disability; requires some help, but able to walk without assistance.",WHITE,0,"Home, with services",1,0
+152,0,34,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,WHITE,1,Long-Term Care (LTC) Facility or Nursing Home,0,0
+153,1,81,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,WHITE,0,Long-Term Care (LTC) Facility or Nursing Home,0,0
+154,1,56,0 - No Symptoms,WHITE,0,"Home, self-care",0,0
+155,1,46,"1 - No significant disability, despite symptoms; able to perform all usual duties and activities.",WHITE,0,"Home, self-care",0,0
+156,1,46,2 - Slight disability; unable to perform all previous activities but able to look after own affairs without assistance.,WHITE,0,"Home, self-care",1,0
+157,1,88,0 - No Symptoms,OTHER,0,"Home, self-care",0,0
+158,0,27,1,WHITE,0,"Home, self-care",0,0
+159,0,27,"1 - No significant disability, despite symptoms; able to perform all usual duties and activities.",WHITE,0,"Home, self-care",1,0
+160,0,76,1,ASIAN,0,"Home, with services",0,0
+161,1,60,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,OTHER,0,"Home, with services",0,0
+162,0,72,6 - Deceased,WHITE,0,Deceased,0,1
+163,1,44,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,OTHER,0,"Home, self-care",0,0
+164,1,31,6 - Deceased,OTHER,0,Deceased,0,1
+165,1,82,6 - Deceased,OTHER,0,Deceased,0,1
+166,1,67,3,OTHER,1,Long-Term Care (LTC) Facility or Nursing Home,0,0
+167,1,58,4,OTHER,0,"Acute Inpatient Rehabilitation Facility (IRF),Long-Term Care (LTC) Facility or Nursing Home",0,0
+168,1,40,6 - Deceased,OTHER,0,Deceased,0,1
+169,1,69,"5 - Severe disability; bedridden, incontinent, and requires constant nursing care and attention.",OTHER,0,"Long-term Acute Care Hospital (LTACH),Other",0,0
+170,1,37,0 - No Symptoms,WHITE,0,"Home, self-care",0,0
+171,0,48,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,OTHER,0,"Acute Inpatient Rehabilitation Facility (IRF),Assisted Living Facility (ALF): 2) True ""assisted living""",0,0
+172,0,77,6 - Deceased,OTHER,0,Deceased,0,1
+173,1,79,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,WHITE,0,Long-term Acute Care Hospital (LTACH),0,0
+174,1,85,"5 - Severe disability; bedridden, incontinent, and requires constant nursing care and attention.",OTHER,0,Hospice Service,0,0
+175,0,65,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,WHITE,0,Long-term Acute Care Hospital (LTACH),0,0
+176,0,65,6 - Deceased,WHITE,0,Long-term Acute Care Hospital (LTACH),1,0
+177,0,77,5,ASIAN,0,Hospice Service,0,0
+178,0,71,4,WHITE,0,Acute Inpatient Rehabilitation Facility (IRF),0,0
+179,0,71,2 - Slight disability; unable to perform all previous activities but able to look after own affairs without assistance.,WHITE,0,Acute Inpatient Rehabilitation Facility (IRF),1,0
+180,0,75,"5 - Severe disability; bedridden, incontinent, and requires constant nursing care and attention.",OTHER,0,Long-term Acute Care Hospital (LTACH),0,0
+181,0,69,5,WHITE,0,Hospice Service,0,0
+182,0,69,0 - No Symptoms,OTHER,0,"Home, self-care",0,0
+183,0,74,4,WHITE,0,Long-Term Care (LTC) Facility or Nursing Home,0,0
+184,1,35,"1 - No significant disability, despite symptoms; able to perform all usual duties and activities.",WHITE,0,"Home, self-care",0,0
+185,1,35,0 - No Symptoms,WHITE,0,"Home, self-care",1,0
+186,1,35,2 - Slight disability; unable to perform all previous activities but able to look after own affairs without assistance.,WHITE,0,"Home, self-care",1,0
+187,1,55,3,WHITE,0,Long-term Acute Care Hospital (LTACH),0,0
+188,1,56,3,OTHER,0,"Home, with services",0,0
+189,1,56,0 - No Symptoms,OTHER,0,"Home, with services",1,0
+190,1,83,4,OTHER,0,Long-term Acute Care Hospital (LTACH),0,0
+191,0,67,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,OTHER,0,Long-Term Care (LTC) Facility or Nursing Home,0,0
+192,0,58,Deceased,OTHER,0,Deceased,0,1
+193,0,23,"1 - No significant disability, despite symptoms; able to perform all usual duties and activities.",WHITE,0,"Home, self-care",0,0
+194,0,80,4,OTHER,0,Rehab,0,0
+195,0,82,3,OTHER,0,Long-term Acute Care Hospital (LTACH),0,0
+196,0,64,"5 - Severe disability; bedridden, incontinent, and requires constant nursing care and attention.",OTHER,0,Long-Term Care (LTC) Facility or Nursing Home,0,0
+197,0,50,2,OTHER,0,"Home, self-care",0,0
+198,1,57,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,OTHER,0,Long-Term Care (LTC) Facility or Nursing Home,0,0
+199,0,83,6 - Deceased,OTHER,0,Deceased,0,1
+200,0,55,0 - No Symptoms,WHITE,0,"Home, self-care",0,0
+201,0,72,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,BLACK/AFRICAN AMERICAN,0,Long-Term Care (LTC) Facility or Nursing Home,0,0
+202,1,37,0 - No Symptoms,WHITE,0,"Home, self-care",0,0
+203,0,83,"5 - Severe disability; bedridden, incontinent, and requires constant nursing care and attention.",WHITE,0,Hospice Service,0,0
+204,0,30,0 - No Symptoms,OTHER,0,"Home, self-care",0,0
+205,0,72,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,OTHER,0,Long-term Acute Care Hospital (LTACH),0,0
+206,0,72,"5 - Severe disability; bedridden, incontinent, and requires constant nursing care and attention.",OTHER,0,Long-term Acute Care Hospital (LTACH),1,0
+207,0,72,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,OTHER,0,Long-term Acute Care Hospital (LTACH),1,0
+208,0,49,"5 - Severe disability; bedridden, incontinent, and requires constant nursing care and attention.",OTHER,0,Long-Term Care (LTC) Facility or Nursing Home,0,0
+209,0,76,4,OTHER,0,Long-term Acute Care Hospital (LTACH),0,0
+210,1,79,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,OTHER,0,Long-Term Care (LTC) Facility or Nursing Home,0,0
+211,1,70,4,BLACK/AFRICAN AMERICAN,0,Subacute Rehab (SAR)/Skilled Nursing Facility (SNF),0,0
+212,1,58,6 - Deceased,OTHER,0,Deceased,0,1
+213,0,29,0 - No Symptoms,OTHER,0,"Home, self-care",0,0
+214,0,27,"1 - No significant disability, despite symptoms; able to perform all usual duties and activities.",ASIAN,0,"Home, self-care",0,0
+215,0,51,0 - No Symptoms,OTHER,0,"Home, self-care",0,0
+216,1,71,2,WHITE,0,"Home, with services",0,0
+217,0,72,6 - Deceased,OTHER,0,Deceased,0,1
+218,0,34,0 - No Symptoms,WHITE,0,"Home, self-care",0,0
+219,1,69,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,WHITE,0,Long-Term Care (LTC) Facility or Nursing Home,0,0
+220,0,40,4,WHITE,0,"Home, self-care",0,0
+221,0,64,"5 - Severe disability; bedridden, incontinent, and requires constant nursing care and attention.",OTHER,0,Long-Term Care (LTC) Facility or Nursing Home,0,0
+222,0,54,6 - Deceased,OTHER,0,Deceased,0,1
+223,0,42,6 - Deceased,WHITE,0,Deceased,0,1
+224,1,66,Deceased,OTHER,0,Deceased,0,1
+225,1,61,Deceased,OTHER,0,Deceased,0,1
+226,1,74,6 - Deceased,OTHER,0,Deceased,0,1
+227,0,40,0,OTHER,0,"Home, self-care",0,0
+228,0,40,0 - No Symptoms,OTHER,0,"Home, self-care",1,0
+229,0,40,0 - No Symptoms,OTHER,0,"Home, self-care",1,0
+230,1,32,6 - Deceased,OTHER,0,Deceased,0,1
+231,0,80,6 - Deceased,OTHER,0,Deceased,0,1
+232,0,78,4,OTHER,0,Extended care facility - LTC Rehab,0,0
+233,0,78,"3 - Moderate disability; requires some help, but able to walk without assistance.",OTHER,0,Extended care facility - LTC Rehab,1,0
+234,0,73,4,OTHER,0,"Home, with services",0,0
+235,0,79,4,OTHER,0,Subacute Rehab (SAR)/Skilled Nursing Facility (SNF),0,0
+236,0,56,6 - Deceased,OTHER,0,Deceased,0,1
+237,0,51,6 - Deceased,OTHER,0,Deceased,0,1
+238,0,86,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,WHITE,0,Subacute Rehab (SAR)/Skilled Nursing Facility (SNF),0,0
+239,0,86,6 - Deceased,WHITE,0,Subacute Rehab (SAR)/Skilled Nursing Facility (SNF),1,0
+240,0,86,3,WHITE,0,"Home, with services",0,0
+241,0,69,"5 - Severe disability; bedridden, incontinent, and requires constant nursing care and attention.",WHITE,0,Hospice Service,0,0
+242,1,29,4,OTHER,0,"Home, self-care",0,0
+243,0,75,Deceased,WHITE,0,Deceased,0,1
+244,0,53,"1 - No significant disability, despite symptoms; able to perform all usual duties and activities.",WHITE,0,"Home, self-care",0,0
+245,1,83,0 - No Symptoms,WHITE,0,"Home, with services",1,0
+246,1,52,"1 - No significant disability, despite symptoms; able to perform all usual duties and activities.",OTHER,0,"Home, self-care",1,0
+247,0,35,3,OTHER,0,"Home, self-care",0,0
+248,0,35,0 - No Symptoms,OTHER,0,"Home, self-care",1,0
+249,0,35,"1 - No significant disability, despite symptoms; able to perform all usual duties and activities.",OTHER,0,"Home, self-care",1,0
+250,0,61,4,OTHER,0,Long-Term Care (LTC) Facility or Nursing Home,0,0
+251,0,29,2,OTHER,0,"Home, self-care",0,0
+252,0,54,3,OTHER,0,Psychiatric Facility,0,0
+253,0,54,"1 - No significant disability, despite symptoms; able to perform all usual duties and activities.",OTHER,0,Psychiatric Facility,1,0
+254,0,54,"1 - No significant disability, despite symptoms; able to perform all usual duties and activities.",OTHER,0,Psychiatric Facility,1,0
+255,0,33,4,WHITE,0,Long-Term Care (LTC) Facility or Nursing Home,0,0
+256,0,33,"5 - Severe disability; bedridden, incontinent, and requires constant nursing care and attention.",WHITE,0,Long-Term Care (LTC) Facility or Nursing Home,1,0
+257,0,57,2 - Slight disability; unable to perform all previous activities but able to look after own affairs without assistance.,OTHER,0,"Subacute Rehab (SAR)/Skilled Nursing Facility (SNF),Psychiatric Facility",0,0
+258,0,41,0 - No Symptoms,OTHER,0,"Home, self-care",0,0
+259,0,82,6 - Deceased,OTHER,0,Deceased,0,1
+260,0,32,4,ASIAN,0,"Home, with services",0,0
+261,0,39,Deceased,OTHER,0,Deceased,0,1
+262,1,87,4,OTHER,0,"Home, with services",0,0
+263,1,75,"5 - Severe disability; bedridden, incontinent, and requires constant nursing care and attention.",WHITE,0,Long-Term Care (LTC) Facility or Nursing Home,0,0
+264,1,72,4,BLACK/AFRICAN AMERICAN,0,SNF/Short Term Rehab,0,0
+265,0,41,"5 - Severe disability; bedridden, incontinent, and requires constant nursing care and attention.",OTHER,0,Hospice Service,0,0
+266,0,41,6 - Deceased,OTHER,0,Hospice Service,1,0
+267,1,82,6 - Deceased,WHITE,0,Deceased,0,1
+268,0,87,6 - Deceased,WHITE,0,Deceased,0,1
+269,0,44,6 - Deceased,ASIAN,0,Deceased,0,1
+270,1,44,6 - Deceased,OTHER,0,Deceased,0,1
+271,0,61,4,WHITE,0,Subacute Rehab (SAR)/Skilled Nursing Facility (SNF),0,0
+272,1,84,4,WHITE,0,Subacute Rehab (SAR)/Skilled Nursing Facility (SNF),0,0
+273,0,30,0,WHITE,0,"Home, self-care",0,0
+274,1,41,4,WHITE,0,LTACH,0,0
+275,1,54,6 - Deceased,WHITE,0,Deceased,0,1
+276,0,70,4,WHITE,0,Left,0,0
+277,0,87,4,BLACK/AFRICAN AMERICAN,0,Subacute Rehab (SAR)/Skilled Nursing Facility (SNF),0,0
+278,1,58,1,WHITE,0,"Home, self-care",0,0
+279,1,83,4,OTHER,0,SNF/Short Term Rehab,0,0
+280,0,76,4,WHITE,0,Acute Inpatient Rehabilitation Facility (IRF),0,0
+281,0,76,4 - Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance.,WHITE,0,Acute Inpatient Rehabilitation Facility (IRF),1,0
+282,1,70,6 - Deceased,WHITE,0,Deceased,0,1
+283,1,68,6 - Deceased,WHITE,0,Deceased,0,1
+284,0,83,4,WHITE,0,Subacute Rehab (SAR)/Skilled Nursing Facility (SNF),0,0
+285,1,83,4,WHITE,0,Subacute Rehab (SAR)/Skilled Nursing Facility (SNF),0,0
+286,1,83,4,BLACK/AFRICAN AMERICAN,0,Subacute Rehab (SAR)/Skilled Nursing Facility (SNF),0,0
+287,0,60,6 - Deceased,WHITE,0,Deceased,0,1
+288,1,67,4,WHITE,0,Subacute Rehab (SAR)/Skilled Nursing Facility (SNF),0,0
+289,1,78,6 - Deceased,WHITE,0,Deceased,0,1
+290,0,83,4,OTHER,0,Acute Rehab,0,0
+291,1,74,0,WHITE,0,"Home, self-care",0,0
+292,1,69,5,WHITE,0,"Subacute Rehab (SAR)/Skilled Nursing Facility (SNF),Short-term/-Stay Hosp. (SSH), Acute Care Hosp. (ACH)",0,0
+293,0,57,6 - Deceased,BLACK/AFRICAN AMERICAN,0,Deceased,0,1
+294,0,82,4,WHITE,0,Acute Inpatient Rehabilitation Facility (IRF),0,0
+295,1,80,6 - Deceased,BLACK/AFRICAN AMERICAN,0,Deceased,0,1
+296,1,58,3,WHITE,0,"Home, self-care",0,0
+297,1,58,"3 - Moderate disability; requires some help, but able to walk without assistance.",WHITE,0,"Home, self-care",1,0
+298,1,78,4,WHITE,0,Acute Rehab,0,0
+299,1,76,3,BLACK/AFRICAN AMERICAN,0,"Home, with services",0,0
+300,1,88,4,BLACK/AFRICAN AMERICAN,0,Acute Inpatient Rehabilitation Facility (IRF),0,0
+301,0,76,1,BLACK/AFRICAN AMERICAN,0,"Home, self-care",0,0
+302,1,87,5,BLACK/AFRICAN AMERICAN,0,Home Hospice,0,0
+303,0,80,6 - Deceased,OTHER,0,Deceased,0,1
+304,1,42,3,WHITE,0,"Home, self-care",0,0
+305,1,42,"3 - Moderate disability; requires some help, but able to walk without assistance.",WHITE,0,"Home, self-care",1,0
+306,1,88,6 - Deceased,WHITE,0,Deceased,0,1
+307,0,86,4,WHITE,0,Hospice Service,0,0
+308,0,76,4,WHITE,0,Subacute Rehab (SAR)/Skilled Nursing Facility (SNF),0,0
+309,0,54,4,BLACK/AFRICAN AMERICAN,0,Rehab,0,0
+310,0,54,"5 - Severe disability; bedridden, incontinent, and requires constant nursing care and attention.",BLACK/AFRICAN AMERICAN,0,Rehab,1,0
+311,1,64,1,WHITE,0,Home,0,0
+312,0,74,2,BLACK/AFRICAN AMERICAN,0,"Home, with services",0,0
+313,1,76,5,BLACK/AFRICAN AMERICAN,0,Acute Rehab,0,0
+314,1,53,3,BLACK/AFRICAN AMERICAN,0,"Home, with services",0,0
+315,0,56,6 - Deceased,WHITE,0,Deceased,0,1
+316,1,81,4,OTHER,0,Home with services,0,0
+317,1,82,4,WHITE,0,"Home, with services",0,0
+318,1,85,6 - Deceased,BLACK/AFRICAN AMERICAN,0,Deceased,0,1
+319,0,84,6 - Deceased,WHITE,0,Deceased,0,1
+320,0,57,4,BLACK/AFRICAN AMERICAN,0,"Home, with services",0,0
+321,1,73,1,BLACK/AFRICAN AMERICAN,0,"Home, self-care",0,0
+322,0,83,4,WHITE,0,Long-Term Care (LTC) Facility or Nursing Home,0,0
+323,1,67,6 - Deceased,OTHER,0,Deceased,0,1
+324,1,73,Deceased,WHITE,0,Deceased,0,1
+325,1,60,4,WHITE,0,SNF/Short Term Rehab,0,0
+326,1,47,4,OTHER,1,Rehab,0,0
+327,0,78,5,OTHER,0,Subacute Rehab (SAR)/Skilled Nursing Facility (SNF),0,0
+328,1,64,4,WHITE,0,Acute Inpatient Rehabilitation Facility (IRF),0,0
+329,1,62,6 - Deceased,WHITE,0,Deceased,0,1
+330,1,75,4,BLACK/AFRICAN AMERICAN,0,Subacute Rehab (SAR)/Skilled Nursing Facility (SNF),0,0
+331,1,56,3,WHITE,0,Psychiatric Care,0,0
+332,0,76,6 - Deceased,WHITE,0,Deceased,0,1
+333,1,66,4,OTHER,0,LTACH,0,0
+334,0,72,1,WHITE,0,"Home, self-care",0,0
+335,1,65,3,WHITE,0,Acute Rehab,0,0
+336,0,73,3,OTHER,0,Acute Inpatient Rehabilitation Facility (IRF),0,0
+337,1,76,4,WHITE,0,Subacute Rehab (SAR)/Skilled Nursing Facility (SNF),0,0
+338,1,38,1,BLACK/AFRICAN AMERICAN,0,"Home, self-care",0,0
+339,1,51,4,OTHER,0,LTAC,0,0
+340,0,80,4,WHITE,0,Acute Inpatient Rehabilitation Facility (IRF),0,0
+341,1,29,4,ASIAN,0,Home with services,0,0
+342,0,52,4,WHITE,0,"Home, self-care",0,0
+343,0,65,4,WHITE,0,"Home, with services",0,0
+344,0,63,6 - Deceased,OTHER,0,Deceased,0,1
+345,1,88,4,OTHER,0,Subacute Rehab (SAR)/Skilled Nursing Facility (SNF),0,0
+346,0,88,4,WHITE,0,"Home, self-care",0,0
+347,1,62,6 - Deceased,BLACK/AFRICAN AMERICAN,0,Deceased,0,1
+348,0,69,6 - Deceased,OTHER,0,Deceased,0,1
+349,0,59,3,WHITE,0,Inpatient Psychiatry,0,0
+350,1,54,6 - Deceased,WHITE,0,Deceased,0,1
+351,0,66,4,BLACK/AFRICAN AMERICAN,0,"Home, self-care",0,0
+352,0,58,4,WHITE,0,Acute Inpatient Rehabilitation Facility (IRF),0,0
+353,1,61,4,WHITE,0,LTACH,0,0
+354,0,83,6 - Deceased,BLACK/AFRICAN AMERICAN,0,Deceased,0,1
+355,0,78,4,OTHER,0,Subacute Rehab (SAR)/Skilled Nursing Facility (SNF),0,0
+356,0,18,0,ASIAN,0,Home,0,0
+357,0,75,6 - Deceased,OTHER,0,Deceased,0,1
